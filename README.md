@@ -1,2 +1,3 @@
-# excercise_tracker_repo
-Application to track different exercises and present them in an easy to read graph format
+# Gym Excercise Tracker
+
+An application to upload, track and display various excercises in an easy to read format.
